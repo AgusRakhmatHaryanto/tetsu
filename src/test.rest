@@ -1,0 +1,34 @@
+#    POST https://rajaongkir-vercel.vercel.app/api/v1/ongkir
+#    Content-Type: application/json
+
+#   {
+#     "origin": "DeNpaSAR",
+#     "destination": "jakarta timur",
+#     "weight": 30000,
+#     "courier": "pos"
+# }
+
+#    POST   http://localhost:8081/api/v1/auth/resend
+#    Content-Type: application/json
+
+#   {
+#     "username":"agusrakhmat",
+#     "email": "xtkr2.03.agusrakhmatharyanto@gmail.com",
+#     "password":"agus"
+# }
+#    PUT http://localhost:8081/api/v1/users/dc8ab943-609a-441f-bad4-bca49b53cd9f
+#    Content-Type: application/json
+
+#   {
+#     "username":"agusrakhmat",
+#     "email": "xtkr2.03.agusrakhmatharyanto@gmail.com",
+#     "password":"agus"
+# # }
+#    POST http://localhost:8081/api/v1/auth/login
+
+#    Content-Type: application/json
+
+#   {
+# 	"email": "xtkr2.03.agusrakhmatharyanto@gmail.com",
+#     "password": "agus"
+# }
